@@ -1,4 +1,4 @@
-KTL Algorithm for face detection
+KLT Algorithm for face detection
 Install Matlab
 
 /* Create a cascade detector object.*/
